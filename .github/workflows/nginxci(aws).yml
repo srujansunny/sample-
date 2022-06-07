@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: srujan1/nginx:20.04
+          tags: srujan1/nginx:1.10
